@@ -1,7 +1,6 @@
-<style>
 div.card {display:flex;flex-direction:column;align-items:center;margin-bottom:10px;margin-right:10px;}
 div.row {display:flex;flex-direction:row;justify-content:start;}
-</style>
+
 
 # pygame-ce-cookbook
 
