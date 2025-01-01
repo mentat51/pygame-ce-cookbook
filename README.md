@@ -21,16 +21,8 @@ All recipes have been tested with &nbsp; **pygame-ce 2.5.2** &nbsp; and &nbsp; *
 </div>
 </div>
 ### image
-<div class="row" style="display:flex;flex-direction:row;justify-content:start;">
-
-<div class="card" style="display:flex;flex-direction:column;align-items:center;margin-bottom:10px;margin-right:10px;">
-    <span>image-color.py</span>
-    <img src="snaps/image-color.png" width="324" height="216">
-</div>
-
-<div class="card" style="display:flex;flex-direction:column;align-items:center;margin-bottom:10px;margin-right:10px;">
-    <span>image-tint.py</span>
-    <img src="snaps/image-tint.gif" width="324" height="216">
+| <span>image-color.py</span> | <img src="snaps/image-color.png" width="324" height="216"> |
+| <span>image-tint.py</span> | <img src="snaps/image-tint.gif" width="324" height="216"> |
 </div>
 </div>
 ### palette
