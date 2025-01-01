@@ -21,8 +21,9 @@ All recipes have been tested with &nbsp; **pygame-ce 2.5.2** &nbsp; and &nbsp; *
 </div>
 </div>
 ### image
-| <span>image-color.py</span> | <img src="snaps/image-color.png" width="324" height="216"> |
-| <span>image-tint.py</span> | <img src="snaps/image-tint.gif" width="324" height="216"> |
+
+<span>image-color.py</span> | <img src="snaps/image-color.png" width="324" height="216">
+<span>image-tint.py</span> | <img src="snaps/image-tint.gif" width="324" height="216">
 </div>
 </div>
 ### palette
