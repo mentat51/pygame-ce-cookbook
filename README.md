@@ -1,7 +1,3 @@
-div.card {display:flex;flex-direction:column;align-items:center;margin-bottom:10px;margin-right:10px;}
-div.row {display:flex;flex-direction:row;justify-content:start;}
-
-
 # pygame-ce-cookbook
 
 # Various Recipe for pygame-ce
@@ -13,13 +9,13 @@ All recipes have been tested with &nbsp; **pygame-ce 2.5.2** &nbsp; and &nbsp; *
 ## Overview
 
 ### font
-<div class="row">
 
-<div class="card">
-    <span>font-outline.py</span>
-    <img src="snaps/font-outline.png" width="324" height="216">
-</div>
-</div>
+
+| <span>font-outline.py</span> |
+|-----------|
+| <img src="snaps/font-outline.png" width="324" height="216">|
+
+
 ### image
 
 | <span>image-color.py</span> | <span>image-tint.py</span> |
