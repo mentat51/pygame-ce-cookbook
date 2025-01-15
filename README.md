@@ -2,7 +2,7 @@
 
 A collection of recipes for &nbsp; [pygame-ce](https://github.com/pygame-community/pygame-ce) &nbsp; (can work with pygame too) collected from various sites or programmed by me.
 
-All recipes have been tested with &nbsp; **pygame-ce 2.5.2** &nbsp; and &nbsp; **python 3.13.1**.
+All recipes have been tested with **pygame-ce 2.5.2** and **python 3.13.1**.
 
 ## Overview
 
@@ -70,9 +70,9 @@ All recipes have been tested with &nbsp; **pygame-ce 2.5.2** &nbsp; and &nbsp; *
 
 ### various
 
-| parallax.py |
-|----------|
-| <img src="snaps/parallax.png" width="324" height="216"> |
+| amiga_copper_bar.py | parallax.py |
+|----------|----------|
+| <img src="snaps/amiga_copper_bar.png" width="324" height="216"> | <img src="snaps/parallax.png" width="324" height="216"> |
 
 
 ## License
