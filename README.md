@@ -1,6 +1,6 @@
 # Various Recipe for pygame-ce
 
-A collection of recipes for &nbsp; [pygame-ce](https://github.com/pygame-community/pygame-ce) &nbsp; (can work with pygame too) collected from various sites or programmed by me.
+A collection of recipes for [pygame-ce](https://github.com/pygame-community/pygame-ce) (can work with pygame too) collected from various sites or programmed by me.
 
 All recipes have been tested with **pygame-ce 2.5.2** and **python 3.13.1**.
 
@@ -8,9 +8,9 @@ All recipes have been tested with **pygame-ce 2.5.2** and **python 3.13.1**.
 
 ### font
 
-| font-outline.py |
-|----------|
-| <img src="snaps/font-outline.png" width="324" height="216"> |
+| font-outline.py | font-textured.py |
+|----------|----------|
+| <img src="snaps/font-outline.png" width="324" height="216"> | <img src="snaps/font-textured.png" width="324" height="216"> |
 
 ### image
 
