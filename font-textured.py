@@ -27,6 +27,8 @@ class Text:
 def main():
     size = (960, 720)
     screen = pg.display.set_mode(size)
+    pg.display.set_caption('Textured text')
+
     BG_COLOR = pg.Color("gray32")
 
     texture = Path("assets/textures/nick-fewings-unsplash.jpg")

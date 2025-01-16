@@ -6,6 +6,12 @@ All recipes have been tested with **pygame-ce 2.5.2** and **python 3.13.1**.
 
 ## Overview
 
+### 3D
+
+| 3D-wireframe-cube.py |
+|----------|
+| <img src="snaps/3D-wireframe-cube.png" width="324" height="216"> |
+
 ### font
 
 | font-outline.py | font-textured.py |
