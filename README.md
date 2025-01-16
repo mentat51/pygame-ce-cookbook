@@ -20,9 +20,14 @@ All recipes have been tested with **pygame-ce 2.5.2** and **python 3.13.1**.
 
 ### image
 
-| image-color.py | image-tint.py |
+| image-color.py | image-rotation.py |
 |----------|----------|
-| <img src="snaps/image-color.png" width="324" height="216"> | <img src="snaps/image-tint.gif" width="324" height="216"> |
+| <img src="snaps/image-color.png" width="324" height="216"> | <img src="snaps/image-rotation.png" width="324" height="216"> |
+
+
+| image-tint.py |
+|----------|
+| <img src="snaps/image-tint.gif" width="324" height="216"> |
 
 ### palette
 
